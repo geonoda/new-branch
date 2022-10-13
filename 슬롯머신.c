@@ -4,7 +4,7 @@
 void InputMoney();
 void Run();
 int A;
-
+int main void void vid
 int main(void)
 {
 	srand(time(NULL));
