@@ -4,7 +4,9 @@
 void InputMoney();
 void Run();
 int A;
-int main void void vidxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+int main void void vidxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xint main void void vidxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+int main void void vidxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 int main(void)
 {
 	srand(time(NULL));
